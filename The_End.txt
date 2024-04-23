@@ -1,2 +1,2 @@
 Strange photo, where was it made?
-CTF{country_city_place}
+CTF{surname_place}
